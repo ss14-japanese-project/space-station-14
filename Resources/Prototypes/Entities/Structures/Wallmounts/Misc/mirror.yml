@@ -1,7 +1,7 @@
 ﻿- type: entity
   parent: BaseWallmountGlass
   id: Mirror
-  name: mirror
+  name: 鏡
   description: 'Mirror mirror on the wall , who''s the most robust of them all?'
   placement:
     mode: SnapgridCenter
@@ -39,7 +39,7 @@
 - type: entity
   parent: Mirror
   id: MirrorModern
-  suffix: rectangle
+  suffix: 長方形
   components:
   - type: Sprite
     state: rectangle-mirror

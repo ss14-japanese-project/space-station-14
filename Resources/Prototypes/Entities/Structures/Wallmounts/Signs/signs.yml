@@ -24,8 +24,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalAtmos
-  name: atmos sign
-  description: A direction sign, pointing out which way the Atmospherics department is.
+  name: 大気の看板
+  description: 大気科の所在地を示す案内標識。
   components:
   - type: Sprite
     state: direction_atmos
@@ -33,8 +33,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalBar
-  name: bar sign
-  description: A direction sign, pointing out which way the bar is.
+  name: バーの看板
+  description: バーの方向を示す案内標識。
   components:
   - type: Sprite
     state: direction_bar
@@ -42,8 +42,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalBridge
-  name: bridge sign
-  description: A direction sign, pointing out which way the Bridge is.
+  name: 船橋の看板
+  description: 船橋の方向を示す案内標識。
   components:
   - type: Sprite
     state: direction_bridge
@@ -51,8 +51,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalBrig
-  name: brig sign
-  description: A direction sign, pointing out which way the Brig is.
+  name: 監禁室の看板
+  description: 監禁室への方向を示す標識。
   components:
   - type: Sprite
     state: direction_brig
@@ -60,8 +60,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalChapel
-  name: chapel sign
-  description: A direction sign, pointing out which way the Chapel is.
+  name: 礼拝堂の看板
+  description: 礼拝堂への方向を示す案内標識。
   components:
   - type: Sprite
     state: direction_chapel
@@ -69,8 +69,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalChemistry
-  name: chemistry sign
-  description: A direction sign, pointing out which way the chemistry lab is.
+  name: 化学の看板
+  description: 化学実験室への方向を示す案内標識。
   components:
   - type: Sprite
     state: direction_chemistry
@@ -78,8 +78,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalCryo
-  name: cryo sign
-  description: A direction sign, pointing out the way to cryogenics.
+  name: 極低温保管室の看板
+  description: 極低温保管室への道を示す案内標識。
   components:
   - type: Sprite
     state: direction_cryo
@@ -87,8 +87,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalDorms
-  name: dorms sign
-  description: A direction sign, pointing out which way the Dorms are.
+  name: 寮の看板
+  description: 寮への方向を示す案内標識。
   components:
   - type: Sprite
     state: direction_dorms
@@ -96,8 +96,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalEng
-  name: engineering sign
-  description: A direction sign, pointing out which way the Engineering department is.
+  name: 工学部の看板
+  description: 工学部への方向を示す案内標識。
   components:
   - type: Sprite
     state: direction_eng
@@ -105,8 +105,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalEvac
-  name: evac sign
-  description: A direction sign, pointing out which way evac is.
+  name: 避難の看板
+  description: 避難方向を示す案内標識。
   components:
   - type: Sprite
     layers:
@@ -122,8 +122,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalExam
-  name: exam sign
-  description: A direction sign, pointing out which way the examination room(s) are.
+  name: 診察室の標識
+  description: 診察室への方向を示す案内標識。
   components:
   - type: Sprite
     state: direction_exam
@@ -131,8 +131,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalFood
-  name: food sign
-  description: A direction sign, pointing out which way the kitchen is.
+  name: キッチンの標識
+  description: キッチンへの方向を示す案内表示。
   components:
   - type: Sprite
     state: direction_food
@@ -140,8 +140,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalGravity
-  name: gravity sign
-  description: A direction sign, pointing out which way the gravity generator is.
+  name: 重力発生器の標識
+  description: 重力発生器の設置方向を示す案内標識。
   components:
   - type: Sprite
     state: direction_gravity
@@ -149,8 +149,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalHop
-  name: hop sign
-  description: A direction sign, pointing out which way Head of Personnel's office is.
+  name: 人事部長室の看板
+  description: 人事部長室への方向を示す案内標識。
   components:
   - type: Sprite
     state: direction_hop
@@ -158,8 +158,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalHydro
-  name: hydro sign
-  description: A direction sign, pointing out which way hydroponics is.
+  name: 水耕栽培施設の看板
+  description: 水耕栽培施設への方向を示す標識。
   components:
   - type: Sprite
     state: direction_hydro
@@ -167,8 +167,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalIcu
-  name: icu sign
-  description: A direction sign, pointing out which way the ICU is.
+  name: ICUの看板
+  description: ICUへの方向を示す案内標識。
   components:
   - type: Sprite
     state: direction_icu
@@ -176,8 +176,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalJanitor
-  name: janitor sign
-  description: A direction sign, pointing out which way the janitor's closet is.
+  name: 用務員室の看板
+  description: 用務員室への方向を示す案内標識。
   components:
   - type: Sprite
     state: direction_janitor
@@ -185,8 +185,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalLibrary
-  name: library sign
-  description: A direction sign, pointing out which way the library is.
+  name: 図書館の看板
+  description: 図書館への行き方を示す案内標識。
   components:
   - type: Sprite
     state: direction_library
@@ -194,8 +194,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalMed
-  name: medical sign
-  description: A direction sign, pointing out which way the Medical department is.
+  name: 医療部門の看板
+  description: 医療部門への方向を示す案内標識。
   components:
   - type: Sprite
     state: direction_med
@@ -203,8 +203,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalSalvage
-  name: salvage sign
-  description: A direction sign, pointing out which way the Salvage department is.
+  name: サルベージ部門の看板
+  description: 解体部門への方向を示す案内標識。
   components:
   - type: Sprite
     state: direction_salvage
@@ -212,8 +212,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalSci
-  name: science sign
-  description: A direction sign, pointing out which way the Science department is.
+  name: 理学部の看板
+  description: 理学部への方向を示す案内標識。
   components:
   - type: Sprite
     state: direction_sci
@@ -221,8 +221,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalSec
-  name: sec sign
-  description: A direction sign, pointing out which way Security is.
+  name: 警備部門の看板
+  description: 警備部門の方向を示す案内標識。
   components:
   - type: Sprite
     state: direction_sec
@@ -230,8 +230,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalSolar
-  name: solars sign
-  description: A direction sign, pointing out which way solars are.
+  name: 太陽光発電部門の看板
+  description: 太陽光発電部門への方向を示す案内標識。
   components:
   - type: Sprite
     state: direction_solar
@@ -239,8 +239,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalSupply
-  name: supply sign
-  description: A direction sign, pointing to some supplies.
+  name: 供給部門の看板
+  description: 供給部門への方向を示す標識。
   components:
   - type: Sprite
     state: direction_supply
@@ -248,8 +248,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalWash
-  name: washroom sign
-  description: A direction sign, pointing to the way to a washroom.
+  name: トイレの看板
+  description: トイレへの道を示す案内標識。
   components:
   - type: Sprite
     state: direction_wash
@@ -257,8 +257,8 @@
 - type: entity
   parent: BaseSignDirectional
   id: SignDirectionalEscapePod
-  name: escape pods sign
-  description: A direction sign, pointing out the way to an escape pod dock.
+  name: 脱出ポッドの看板
+  description: 脱出ポッド乗り場への道を示す案内標識。
   components:
   - type: Sprite
     state: direction_pods
@@ -268,8 +268,8 @@
 - type: entity
   parent: BaseSign
   id: SignAi
-  name: ai sign
-  description: A sign, indicating an AI is present.
+  name: AIの看板
+  description: AIが存在することを示す看板。
   components:
   - type: Sprite
     state: ai
@@ -277,8 +277,8 @@
 - type: entity
   parent: BaseSign
   id: SignAiUpload
-  name: ai upload sign
-  description: A sign, indicating an AI is present.
+  name: AIアップロードの看板
+  description: AIが存在することを示す看板。
   components:
     - type: Sprite
       state: ai_upload
@@ -286,8 +286,8 @@
 - type: entity
   parent: BaseSign
   id: SignArcade
-  name: arcade sign
-  description: A sign indicating the arcade.
+  name: ゲームセンターの看板
+  description: ゲームセンターを示す看板。
   components:
   - type: Sprite
     state: arcade
@@ -295,8 +295,8 @@
 - type: entity
   parent: BaseSign
   id: SignArmory
-  name: armory sign
-  description: A sign indicating the armory.
+  name: 武器庫の看板
+  description: 武器庫を示す看板。
   components:
   - type: Sprite
     state: armory
@@ -304,8 +304,8 @@
 - type: entity
   parent: BaseSign
   id: SignArrivals
-  name: arrivals sign
-  description: A sign indicating where the Arrivals shuttle will dock.
+  name: 到着の看板
+  description: 到着シャトルバスの停留所を示す看板。
   components:
   - type: Sprite
     state: arrivals
@@ -313,8 +313,8 @@
 - type: entity
   parent: BaseSign
   id: SignToolStorage
-  name: tool storage sign
-  description: A sign indicating the tool storage room.
+  name: 工具保管室の看板
+  description: 工具保管室を示す看板。
   components:
   - type: Sprite
     state: ass
@@ -322,8 +322,8 @@
 - type: entity
   parent: BaseSign
   id: SignAnomaly
-  name: xenoarcheology lab sign
-  description: A sign indicating the xenoarchaeology lab.
+  name: 異星考古学研究室の看板
+  description: 異星考古学研究室を示す看板。
   components:
   - type: Sprite
     state: xenoarch
@@ -1347,8 +1347,8 @@
 - type: entity
   parent: BaseSign
   id: SignRedOne
-  name: one sign
-  description: A sign with a digit, one is written on it.
+  name: 1の看板
+  description: 数字の1が書かれた記号。
   components:
   - type: Sprite
     state: one
@@ -1356,8 +1356,8 @@
 - type: entity
   parent: BaseSign
   id: SignRedTwo
-  name: two sign
-  description: A sign with a digit, two is written on it.
+  name: 2の看板
+  description: 数字の2が書かれた記号。
   components:
   - type: Sprite
     state: two
@@ -1365,8 +1365,8 @@
 - type: entity
   parent: BaseSign
   id: SignRedThree
-  name: three sign
-  description: A sign with a digit, three is written on it.
+  name: 3の看板
+  description: 数字の3が書かれた記号。
   components:
   - type: Sprite
     state: three
@@ -1374,8 +1374,8 @@
 - type: entity
   parent: BaseSign
   id: SignRedFour
-  name: four sign
-  description: A sign with a digit, four is written on it.
+  name: 4の看板
+  description: 数字の4が書かれた記号。
   components:
   - type: Sprite
     state: four
@@ -1383,8 +1383,8 @@
 - type: entity
   parent: BaseSign
   id: SignRedFive
-  name: five sign
-  description: A sign with a digit, five is written on it.
+  name: 5の看板
+  description: 数字の5が書かれた記号。
   components:
   - type: Sprite
     state: five
@@ -1392,8 +1392,8 @@
 - type: entity
   parent: BaseSign
   id: SignRedSix
-  name: six sign
-  description: A sign with a digit, six is written on it.
+  name: 6の看板
+  description: 数字の6が書かれた記号。
   components:
   - type: Sprite
     state: six
@@ -1401,8 +1401,8 @@
 - type: entity
   parent: BaseSign
   id: SignRedSeven
-  name: seven sign
-  description: A sign with a digit, seven is written on it.
+  name: 7の看板
+  description: 数字の7が書かれた記号。
   components:
   - type: Sprite
     state: seven
@@ -1410,8 +1410,8 @@
 - type: entity
   parent: BaseSign
   id: SignRedEight
-  name: eight sign
-  description: A sign with a digit, eight is written on it.
+  name: 8の看板
+  description: 数字の8が書かれた記号。
   components:
   - type: Sprite
     state: eight
@@ -1419,8 +1419,8 @@
 - type: entity
   parent: BaseSign
   id: SignRedNine
-  name: nine sign
-  description: A sign with a digit, nine is written on it.
+  name: 9の看板
+  description: 数字の9が書かれた記号。
   components:
   - type: Sprite
     state: nine
@@ -1428,8 +1428,8 @@
 - type: entity
   parent: BaseSign
   id: SignRedZero
-  name: zero sign
-  description: A sign with a digit, zero is written on it.
+  name: 0の看板
+  description: 数字の0が書かれた記号。
   components:
   - type: Sprite
     state: zero

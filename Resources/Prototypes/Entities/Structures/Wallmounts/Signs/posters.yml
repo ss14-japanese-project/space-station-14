@@ -34,7 +34,7 @@
   parent: BaseSign
   id: PosterBroken
   name: broken poster
-  description: "You can't make out anything from the poster's original print. It's ruined."
+  description: "ポスターの原版からは何も読み取れない。完全にダメになっている。"
   components:
   - type: Sprite
     drawdepth: WallTops
@@ -62,7 +62,7 @@
   parent: PosterBase
   id: PosterContrabandFreeTonto
   name: "Free Tonto"
-  description: "A salvaged shred of a much larger flag, colors bled together and faded from age."
+  description: "元々はもっと大きな旗だったものが、再利用された断片で、色が滲み合い、経年劣化で色褪せていた。"
   components:
   - type: Sprite
     state: poster1_contraband
@@ -70,8 +70,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandAtmosiaDeclarationIndependence
-  name: "Atmosia Declaration of Independence"
-  description: "A relic of a failed rebellion."
+  name: "アトモシア独立宣言"
+  description: "失敗に終わった反乱の遺物。"
   components:
   - type: Sprite
     state: poster2_contraband
@@ -80,7 +80,7 @@
   parent: PosterBase
   id: PosterContrabandFunPolice
   name: "Fun Police"
-  description: "A poster condemning the station's security forces."
+  description: "駅の警備部隊を非難するポスター。"
   components:
   - type: Sprite
     state: poster3_contraband
@@ -88,8 +88,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandRealExomorph
-  name: "Real! Exomorph"
-  description: "A conspiratorial poster about dangerous alien lifeforms."
+  name: "本物！エクソモーフ"
+  description: "危険なエイリアン生命体に関する陰謀論的なポスター。"
   components:
   - type: Sprite
     state: poster4_contraband
@@ -97,8 +97,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandSyndicateRecruitment
-  name: "Syndicate Recruitment"
-  description: "See the galaxy! Shatter corrupt megacorporations! Join today!"
+  name: "シンジケート採用"
+  description: "銀河を見渡せ！​​腐敗した巨大企業を打ち砕け！今すぐ参加しよう！"
   components:
   - type: Sprite
     state: poster5_contraband
@@ -115,8 +115,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandSmoke
-  name: "Smoke"
-  description: "A poster advertising a rival corporate brand of cigarettes."
+  name: "ケムリ"
+  description: "競合するタバコ会社のブランドを宣伝するポスター。"
   components:
   - type: Sprite
     state: poster7_contraband
@@ -124,8 +124,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandGreyTide
-  name: "Grey Tide"
-  description: "A rebellious poster symbolizing passenger solidarity."
+  name: "灰色の潮流"
+  description: "乗客の連帯を象徴する反骨精神あふれるポスター。"
   components:
   - type: Sprite
     state: poster8_contraband
@@ -133,8 +133,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandMissingGloves
-  name: "Missing Gloves"
-  description: "This poster references the uproar that followed Nanotrasen's financial cuts toward insulated-glove purchases."
+  name: "手袋が見つからない"
+  description: "このポスターは、Nanotrasen社が断熱手袋の購入予算を削減した後に巻き起こった騒動を題材にしている。"
   components:
   - type: Sprite
     state: poster9_contraband
@@ -142,8 +142,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandHackingGuide
-  name: "Hacking Guide"
-  description: "This poster details the internal workings of the common Nanotrasen airlock. Sadly, it appears out of date."
+  name: "ハッキングガイド"
+  description: "このポスターは、一般的なNanotrasen製エアロックの内部構造を詳細に示しています。残念ながら、内容が古くなっているようです。"
   components:
   - type: Sprite
     state: poster10_contraband
@@ -152,7 +152,7 @@
   parent: PosterBase
   id: PosterContrabandRIPBadger
   name: "RIP Badger"
-  description: "This seditious poster references Nanotrasen's genocide of a space station full of badgers."
+  description: "この扇動的なポスターは、Nanotrasen社がアナグマでいっぱいの宇宙ステーションを虐殺した事件を暗示している。"
   components:
   - type: Sprite
     state: poster11_contraband
@@ -160,8 +160,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandAmbrosiaVulgaris
-  name: "Ambrosia Vulgaris"
-  description: "This poster is lookin' pretty trippy man."
+  name: "アンブロシア・ブルガリス"
+  description: "このポスター、かなりサイケデリックだね。"
   components:
   - type: Sprite
     state: poster12_contraband
@@ -169,8 +169,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandDonutCorp
-  name: "Donut Corp."
-  description: "This poster is an unauthorized advertisement for Donut Corp."
+  name: "ドーナツ株式会社"
+  description: "このポスターは、ドーナツ株式会社の無許可広告です。"
   components:
   - type: Sprite
     state: poster13_contraband
@@ -178,8 +178,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandEAT
-  name: "EAT."
-  description: "This poster promotes rank gluttony."
+  name: "食べる！"
+  description: "このポスターは、極めて貪欲な行為を助長している。"
   components:
   - type: Sprite
     state: poster14_contraband
@@ -187,8 +187,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandTools
-  name: "Tools"
-  description: "This poster looks like an advertisement for tools, but is in fact a subliminal jab at the tools at CentComm."
+  name: "ツール"
+  description: "このポスターは工具の広告のように見えるが、実は中央司令部の工具に対するさりげない皮肉なのだ。"
   components:
   - type: Sprite
     state: poster15_contraband
@@ -196,8 +196,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandPower
-  name: "Power"
-  description: "A poster that positions the seat of power outside Nanotrasen."
+  name: "力"
+  description: "Nanotrasen社の外に権力の座を位置づけるポスター。"
   components:
   - type: Sprite
     state: poster16_contraband
@@ -205,8 +205,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandSpaceCube
-  name: "Space Cube"
-  description: "Ignorant of Nature's Harmonic 6 Side Space Cube Creation, the Spacemen are Dumb, Educated Singularity Stupid and Evil."
+  name: "スペースキューブ"
+  description: "自然界の調和的な6面体スペースキューブの創造を知らない宇宙飛行士たちは、愚かで、教育を受けた特異点であり、愚かで、邪悪だ。"
   components:
   - type: Sprite
     state: poster17_contraband
@@ -214,8 +214,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandCommunistState
-  name: "Communist State"
-  description: "All hail the Communist party!"
+  name: "共産主義国家"
+  description: "共産党万歳！"
   components:
   - type: Sprite
     state: poster18_contraband
@@ -223,8 +223,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandLamarr
-  name: "Lamarr"
-  description: "This poster depicts Lamarr. Probably made by a traitorous Research Director."
+  name: "ラマー"
+  description: "このポスターはラマーを描いたものだ。おそらく裏切り者の研究部長が作ったものだろう。"
   components:
   - type: Sprite
     state: poster19_contraband
@@ -232,8 +232,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandBorgFancy
-  name: "Borg Fancy"
-  description: "Being fancy can be for any borg, just need a suit."
+  name: "ボーグファンシー"
+  description: "派手な格好はどんなボーグでもできる。必要なのはスーツだけだ。"
   components:
   - type: Sprite
     state: poster20_contraband
@@ -241,8 +241,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandBorgFancyv2
-  name: "Borg Fancy v2"
-  description: "Borg Fancy, Now only taking the most fancy."
+  name: "ボーグファンシーv2"
+  description: "ボーグ、今や最も洗練されたものだけを選りすぐる。"
   components:
   - type: Sprite
     state: poster21_contraband
@@ -250,8 +250,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandKosmicheskayaStantsiya
-  name: "Kosmicheskaya Stantsiya 13 Does Not Exist"
-  description: "A poster mocking CentComm's denial of the existence of the derelict station near Space Station 13."
+  name: "コスミチェスカヤ スタンツィヤ 13 は存在しません"
+  description: "宇宙ステーション13号付近に廃墟となった宇宙ステーションが存在することを中央通信局が否定していることを揶揄するポスター。"
   components:
   - type: Sprite
     state: poster22_contraband
@@ -259,8 +259,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandRebelsUnite
-  name: "Rebels Unite"
-  description: "A poster urging the viewer to rebel against Nanotrasen."
+  name: "反逆者たちよ、団結せよ"
+  description: "Nanotrasen社への反乱を促すポスター。"
   components:
   - type: Sprite
     state: poster23_contraband
@@ -269,7 +269,7 @@
   parent: PosterBase
   id: PosterContrabandC20r
   name: "C-20r"
-  description: "A poster advertising the Scarborough Arms C-20r."
+  description: "Scarborough Arms社製C-20rの広告ポスター。"
   components:
   - type: Sprite
     state: poster24_contraband
@@ -277,8 +277,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandHaveaPuff
-  name: "Have a Puff"
-  description: "Who cares about lung cancer when you're high as a kite?"
+  name: "ひと口吸ってみて"
+  description: "マリファナでハイになっている時に、肺がんのことなんて誰が気にするだろうか？"
   components:
   - type: Sprite
     state: poster25_contraband
@@ -286,8 +286,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandRevolver
-  name: "Revolver"
-  description: "Because seven shots are all you need."
+  name: "リボルバー"
+  description: "なぜなら、必要なのは7発だけだからだ。"
   components:
   - type: Sprite
     state: poster26_contraband
@@ -295,8 +295,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandDDayPromo
-  name: "D-Day Promo"
-  description: "A promotional poster for some rapper."
+  name: "D-Dayプロモーション"
+  description: "あるラッパーの宣伝ポスター。"
   components:
   - type: Sprite
     state: poster27_contraband
@@ -304,8 +304,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandSyndicatePistol
-  name: "Syndicate Pistol"
-  description: "A poster advertising syndicate pistols as being 'classy as fuck'. It's covered in faded gang tags."
+  name: "シンジケートピストル"
+  description: "シンジケートの拳銃を「最高にカッコいい」と宣伝するポスター。色褪せたギャングの落書きだらけだ。"
   components:
   - type: Sprite
     state: poster28_contraband
@@ -313,7 +313,7 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandEnergySwords
-  name: "Energy Swords"
+  name: "エネルギーソード"
   description: "All the colors of the bloody murder rainbow."
   components:
   - type: Sprite
@@ -331,8 +331,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandCC64KAd
-  name: "CC 64K Ad"
-  description: "The latest portable computer from Comrade Computing, with a whole 64kB of ram!"
+  name: "NSX広告"
+  description: "NSXの最新ポータブルコンピュータは、なんと64KBのRAMを搭載！"
   components:
   - type: Sprite
     state: poster31_contraband
@@ -341,7 +341,7 @@
   parent: PosterBase
   id: PosterContrabandPunchShit
   name: "Punch Shit"
-  description: "Fight things for no reason, like a man!"
+  description: "男らしく、理由もなく物事と戦え！"
   components:
   - type: Sprite
     state: poster32_contraband
@@ -349,8 +349,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandTheGriffin
-  name: "The Griffin"
-  description: "The Griffin commands you to be the worst you can be. Will you?"
+  name: "グリフィン"
+  description: "グリフィンはあなたに、できる限り最悪の人間になれと命じる。あなたはそうするだろうか？"
   components:
   - type: Sprite
     state: poster33_contraband
@@ -359,7 +359,7 @@
   parent: PosterBase
   id: PosterContrabandFreeDrone
   name: "Free Drone"
-  description: "This poster commemorates the bravery of the rogue drone; once exiled, and then ultimately destroyed by CentComm."
+  description: "このポスターは、かつて追放され、最終的に中央司令部によって破壊された、あの反逆ドローンの勇敢さを称えるものです。"
   components:
   - type: Sprite
     state: poster35_contraband
@@ -367,8 +367,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandRouny
-  name: "Have You Seen Him?"
-  description: "An old poster for a missing alien. Where did he run off to?"
+  name: "彼を見かけましたか？"
+  description: "行方不明の宇宙人の古いポスター。彼は一体どこへ逃げ出したのだろう？"
   components:
   - type: Sprite
     state: poster36_contraband
@@ -377,7 +377,7 @@
   parent: PosterBase
   id: PosterContrabandRobustSoftdrinks
   name: "Robust Softdrinks"
-  description: "Robust Softdrinks: More robust than a toolbox to the head!"
+  description: "Robust Softdrinks：工具箱で頭を殴られてもびくともしない！"
   components:
   - type: Sprite
     state: poster37_contraband
@@ -386,7 +386,7 @@
   parent: PosterBase
   id: PosterContrabandShamblersJuice
   name: "Shambler's Juice"
-  description: "~Shake me up some of that Shambler's Juice!~"
+  description: "~Shambler's Juiceを振って混ぜてくれ！~"
   components:
   - type: Sprite
     state: poster38_contraband
@@ -430,8 +430,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandKudzu
-  name: "Kudzu"
-  description: "A poster advertising a movie about plants. How dangerous could they possibly be?"
+  name: "葛"
+  description: "植物を題材にした映画のポスター。一体どれほど危険なものだろうか？"
   components:
   - type: Sprite
     state: poster43_contraband
@@ -439,8 +439,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandMaskedMen
-  name: "Masked Men"
-  description: "A poster advertising a movie about some masked men."
+  name: "マスクドメン"
+  description: "覆面をした男たちを描いた映画のポスター。"
   components:
   - type: Sprite
     state: poster44_contraband
@@ -448,8 +448,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandUnreadableAnnouncement
-  name: "Unreadable Announcement"
-  description: "A poster announcing something by someone, oddly enough they seem to have forgotten making it readable."
+  name: "判読不能な告知"
+  description: "誰かが何かを告知するポスターを作ったのだが、不思議なことに、読みやすくすることを忘れてしまったようだ。"
   components:
   - type: Sprite
     state: poster45_contraband
@@ -484,8 +484,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandWehWatches
-  name: "Weh Watches"
-  description: "A poster depicting a loveable green lizard."
+  name: "ウェーは見ている"
+  description: "愛らしい緑色のトカゲを描いたポスター。"
   components:
   - type: Sprite
     state: poster50_contraband
@@ -493,7 +493,7 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandVoteWeh
-  name: "Vote Weh"
+  name: "投票ウェー"
   description: "A stylish, sleek, and well illustrated poster for a \"Weh\"nderful new progressive candidate coming this election season."
   components:
   - type: Sprite
@@ -503,8 +503,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandBeachStarYamamoto
-  name: "Beach Star Yamamoto!"
-  description: "A wall scroll depicting an old swimming anime with girls in small swim suits. You feel more weebish the longer you look at it."
+  name: "ビーチスター山本！"
+  description: "小さな水着を着た女の子たちが登場する、昔の水泳アニメを描いた掛け軸。見れば見るほど、自分がオタクっぽくなっていくような気がする。"
   components:
   - type: Sprite
     state: poster52_contraband
@@ -557,8 +557,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandCybersun600
-  name: "Cybersun: 600 Years Commemorative Poster"
-  description: "An artistic poster commemorating 600 years of continual business for Cybersun Industries."
+  name: "Cybersun：600周年記念ポスター"
+  description: "Cybersun Industriesの創業600周年を記念した芸術的なポスター。"
   components:
     - type: Sprite
       state: poster58_contraband
@@ -756,8 +756,8 @@
 - type: entity
   parent: PosterBase
   id: PosterLegitUeNo
-  name: "Ue No."
-  description: "This thing is all in Japanese."
+  name: "上の"
+  description: "このポスターは逆さまです！"
   components:
   - type: Sprite
     state: poster14_legit
@@ -864,8 +864,8 @@
 - type: entity
   parent: PosterBase
   id: PosterLegit50thAnniversaryVintageReprint
-  name: "50th Anniversary Vintage Reprint"
-  description: "A reprint of a poster from 2505, commemorating the 50th Anniversary of Nanoposters Manufacturing, a subsidiary of Nanotrasen."
+  name: "50周年記念復刻版"
+  description: "Nanotrasenの子会社であるNanoposters Manufacturingの創立50周年を記念して、2505年に発行されたポスターの復刻版。"
   components:
   - type: Sprite
     state: poster26_legit
@@ -900,8 +900,8 @@
 - type: entity
   parent: PosterBase
   id: PosterLegitNanomichiAd
-  name: "Nanomichi Ad"
-  description: " A poster advertising Nanomichi brand audio cassettes."
+  name: "Nanomichi広告"
+  description: "Nanomichiブランドのオーディオカセットを宣伝するポスター。"
   components:
   - type: Sprite
     state: poster30_legit
