@@ -48,8 +48,8 @@ alerts-crit-desc = You're severely injured and unconscious.
 alerts-dead-name = Dead
 alerts-dead-desc = You're dead, note that you can still be revived!
 
-alerts-health-name = Health
-alerts-health-desc = [color=green]Green[/color] good. [color=red]Red[/color] bad.
+alerts-health-name = 具合
+alerts-health-desc = [color=green]緑[/color]は良い。[color=red]赤[/color]は悪い。
 
 alerts-battery-name = Battery
 alerts-battery-desc = If your battery depletes, you will be unable to use your abilities.
