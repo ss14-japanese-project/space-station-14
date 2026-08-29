@@ -28,7 +28,7 @@ alerts-weightless-desc =
     Mag-boots or jetpacks would help you move with more control.
 
 alerts-walking-name = Walking
-alerts-walking-desc = You are walking, moving at a slow pace.
+alerts-walking-desc = あなたはゆっくりとしたペースで歩いています。
 
 alerts-knockdown-name = [color=yellow]Knocked Down[/color]
 alerts-knockdown-desc = You're [color=yellow]Knocked Down[/color]! Something has slipped or pushed you over, encumbering your movement.
@@ -46,7 +46,7 @@ alerts-crit-name = [color=red]Critical Condition[/color]
 alerts-crit-desc = You're severely injured and unconscious.
 
 alerts-dead-name = Dead
-alerts-dead-desc = You're dead, note that you can still be revived!
+alerts-dead-desc = あなたは死亡していますが、蘇生可能です！
 
 alerts-health-name = 具合
 alerts-health-desc = [color=green]緑[/color]は良い。[color=red]赤[/color]は悪い。
