@@ -1,18 +1,15 @@
 # Cat accent
-accent-words-cat-1 = Meow!
-accent-words-cat-2 = Mow.
-accent-words-cat-3 = Mrrrow!
-accent-words-cat-4 = Hhsss!
-accent-words-cat-5 = Brrow.
-accent-words-cat-6 = Meow?
-accent-words-cat-7 = Miau.
+accent-words-cat-1 = にゃん！
+accent-words-cat-2 = にゃ。
+accent-words-cat-3 = にゃーん！
+accent-words-cat-4 = しゃー！
+accent-words-cat-5 = ごろごろ.
+accent-words-cat-6 = にゃ？
+accent-words-cat-7 = にゃー。
 
 # Dog accent
-accent-words-dog-1 = Bark!
-accent-words-dog-2 = Bork!
-accent-words-dog-3 = Woof!
-accent-words-dog-4 = Arf.
-accent-words-dog-5 = Grrr.
+accent-words-dog-1 = わん!
+accent-words-dog-2 = わん。
 
 # Mouse
 accent-words-mouse-1 = Squeak!

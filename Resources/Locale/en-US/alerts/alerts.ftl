@@ -24,8 +24,9 @@ alerts-too-hot-desc = It's [color=red]too hot![/color] Get somewhere colder, tak
 
 alerts-weightless-name = Weightless
 alerts-weightless-desc =
-    Gravity has ceased affecting you, and you're floating around aimlessly. Find something sturdy to hold onto, or throw or shoot something in a direction opposite of you.
-    Mag-boots or jetpacks would help you move with more control.
+    重力はもはやあなたに作用せず、あなたは目的もなく漂っている。何か頑丈なものにつかまるか、反対方向に何かを投げたり撃ったりしてください。
+
+    マグブーツやジェットパックがあれば、よりコントロールされた動きができるようになります。
 
 alerts-walking-name = Walking
 alerts-walking-desc = あなたはゆっくりとしたペースで歩いています。
