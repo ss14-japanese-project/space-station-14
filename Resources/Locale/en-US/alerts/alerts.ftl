@@ -13,16 +13,16 @@ alerts-low-pressure-desc = The air around you is [color=red]hazardously thin[/co
 alerts-high-pressure-name = [color=red]High Pressure[/color]
 alerts-high-pressure-desc = The air around you is [color=red]hazardously thick[/color]. A [color=green]pressurized suit[/color] would be enough to protect you.
 
-alerts-on-fire-name = [color=red]On Fire[/color]
-alerts-on-fire-desc = You're [color=red]on fire[/color]. Click the alert to stop, drop and roll to put the fire out or move to a vacuum area.
+alerts-on-fire-name = [color=red]炎上[/color]
+alerts-on-fire-desc = [color=red]君は燃えている[/color]。警告をクリックして、立ち止まり、倒れて転がり、火を消すか、空気のない場所に移動してください。
 
 alerts-too-cold-name = [color=cyan]Too Cold[/color]
-alerts-too-cold-desc = You're [color=cyan]freezing cold![/color] Get somewhere warmer and take off any insulating clothing like a space suit.
+alerts-too-cold-desc = [color=cyan]凍えるほど寒いです！[/color]もっと暖かい場所へ移動して、防寒着を脱いでください。
 
 alerts-too-hot-name = [color=red]Too Hot[/color]
-alerts-too-hot-desc = It's [color=red]too hot![/color] Get somewhere colder, take off any insulating clothing like a space suit, or at least get away from the flames.
+alerts-too-hot-desc = [color=red]暑すぎます！[/color]もっと寒い場所へ移動するか、防寒着を脱ぐか、少なくとも炎から離れてください。
 
-alerts-weightless-name = Weightless
+alerts-weightless-name = 無重力
 alerts-weightless-desc =
     重力はもはやあなたに作用せず、あなたは目的もなく漂っている。何か頑丈なものにつかまるか、反対方向に何かを投げたり撃ったりしてください。
 
@@ -43,20 +43,20 @@ alerts-ensnared-desc = You're [color=yellow]ensnared[/color] and is impairing yo
 alerts-buckled-name = [color=yellow]Buckled[/color]
 alerts-buckled-desc = You've been [color=yellow]buckled[/color] to something. Click the alert to unbuckle unless you're [color=yellow]handcuffed.[/color]
 
-alerts-crit-name = [color=red]Critical Condition[/color]
-alerts-crit-desc = You're severely injured and unconscious.
+alerts-crit-name = [color=red]重篤な状態[/color]
+alerts-crit-desc = あなたは重傷を負い、意識不明です。
 
-alerts-dead-name = Dead
+alerts-dead-name = 死亡
 alerts-dead-desc = あなたは死亡していますが、蘇生可能です！
 
 alerts-health-name = 具合
 alerts-health-desc = [color=green]緑[/color]は良い。[color=red]赤[/color]は悪い。
 
-alerts-battery-name = Battery
-alerts-battery-desc = If your battery depletes, you will be unable to use your abilities.
+alerts-battery-name = バッテリー
+alerts-battery-desc = バッテリーが切れると、能力を使用できなくなります。
 
-alerts-no-battery-name = No Battery
-alerts-no-battery-desc = You don't have a battery, rendering you unable to charge or use your abilities.
+alerts-no-battery-name = バッテリーがありません
+alerts-no-battery-desc = バッテリーが搭載されていないため、充電も能力の使用もできません。
 
 alerts-internals-name = Toggle internals
 alerts-internals-desc = Toggles your gas tank internals on or off.
@@ -64,17 +64,17 @@ alerts-internals-desc = Toggles your gas tank internals on or off.
 alerts-piloting-name = Piloting Shuttle
 alerts-piloting-desc = You are piloting a shuttle. Click the alert to stop.
 
-alerts-hunger-name = [color=yellow]Peckish[/color]
-alerts-hunger-desc = Some food would be good right about now.
+alerts-hunger-name = [color=yellow]空腹[/color]
+alerts-hunger-desc = 今頃、何か食べ物が食べたいな。
 
-alerts-stamina-name = Stamina
+alerts-stamina-name = 体力
 alerts-stamina-desc = Stuns you if it is too low.
 
 alerts-starving-name = [color=red]Starving[/color]
-alerts-starving-desc = You're severely malnourished. The hunger pains make moving around a chore.
+alerts-starving-desc = あなたは重度の栄養失調です。空腹による痛みで、動くことさえ困難です。
 
-alerts-thirsty-name = [color=yellow]Thirsty[/color]
-alerts-thirsty-desc = Something to drink would be good right about now.
+alerts-thirsty-name = [color=yellow]渇く[/color]
+alerts-thirsty-desc = そろそろ何か飲み物が欲しいな。
 
 alerts-parched-name = [color=red]Parched[/color]
 alerts-parched-desc = You're severely thirsty. The thirst makes moving around a chore.
@@ -83,13 +83,13 @@ alerts-vow-broken-name = Vow Broken
 alerts-vow-broken-desc = You've broken your vows to Mimes everywhere. You can speak and write, but you've lost your powers for at least 5 entire minutes!!! Click to try and retake your vow.
 
 alerts-pulled-name = Pulled
-alerts-pulled-desc = You're being pulled. Move to break free.
+alerts-pulled-desc = 引っ張られています。動いて自由になりましょう。
 
 alerts-pulling-name = Pulling
-alerts-pulling-desc = You're pulling something. Click the alert to stop.
+alerts-pulling-desc = 何かを引っ張っています。クリックすると引っ張る動作が停止します。
 
-alerts-bleed-name = [color=red]Bleed[/color]
-alerts-bleed-desc = You're [color=red]bleeding[/color].
+alerts-bleed-name = [color=red]出血[/color]
+alerts-bleed-desc = [color=red]出血[/color]している。
 
 alerts-pacified-name = [color=green]Pacified[/color]
 alerts-pacified-desc = You're pacified; you won't be able to harm living creatures.
@@ -97,8 +97,8 @@ alerts-pacified-desc = You're pacified; you won't be able to harm living creatur
 alerts-suit-power-name = Suit Power
 alerts-suit-power-desc = How much power your space ninja suit has.
 
-alerts-magboots-name = Magboots
-alerts-magboots-desc = You are immune to airflow, but slightly slower.
+alerts-magboots-name = マグブーツ
+alerts-magboots-desc = あなたは気流の影響を受けませんが、少し動きが遅くなります。
 
 alerts-revenant-essence-name = Essence
 alerts-revenant-essence-desc = The power of souls. It sustains you and is used for abilities. It regenerates slowly over time.
