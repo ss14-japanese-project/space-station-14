@@ -6,11 +6,11 @@ agent-id-new = { $number ->
 
 agent-id-open-ui-verb = Change settings
 
-agent-id-ui-menu-title = Agent ID Card
-agent-id-ui-tab-settings = Settings
+agent-id-ui-menu-title = Agent IDカード
+agent-id-ui-tab-settings = 設定
 agent-id-ui-tab-job-icons = Job Icons
 
-agent-id-ui-input-name = Name:
+agent-id-ui-input-name = 名：
 agent-id-ui-input-job = Job:
 
 agent-id-ui-os = Nuke#OS ™
